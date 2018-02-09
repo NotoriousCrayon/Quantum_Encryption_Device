@@ -4,6 +4,14 @@ The code that will read the decay of a radioactive isotope with an Arduino and d
 Code was originally Developed by Anthony B. Kunkel in this paper http://repository.stcloudstate.edu/cgi/viewcontent.cgi?article=1050&context=msia_etds
 Later edits have been made by Adam Fitzpatrick at St. Cloud State University
 
+Software
+-----------
+1. NOOBS for Raspberry Pi: https://www.raspberrypi.org/downloads/noobs/
+
+2. SD Formatter: https://www.sdcard.org/downloads/formatter_4/
+
+3. Arduino IDE https://www.arduino.cc/en/Main/Software
+
  Device List
 --------------
 1. Arduino Uno https://www.sparkfun.com/products/11021
